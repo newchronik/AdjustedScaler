@@ -1,4 +1,9 @@
-# smart-data-tools
+# ATTENTION:
+
+This repository will no longer be supported.<br>
+AdjustedScaler moved to library <a href="https://github.com/newchronik/adjdatatools">AdjDataTools</a>
+
+# AdjustedScaler
 
 This scaler scales the data to a valid range to eliminate potential 
 outliers. The range of significant values is calculated using the 
